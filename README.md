@@ -17,8 +17,8 @@ A sleek, fully functional **Recipes app** built with **Flutter**, featuring basi
 
 
 ---
-## Click the link to use the calculator
-https://appetize.io/embed/b_dwe7l4jw3o3bskoefn7v7nrupi
+## Click the link to see the app upload for testing
+https://appetize.io/embed/b_gtyuqju34nqopzcgqs3ddjlqdi
 
 ## 🧑‍💻 Tech Stack
 
